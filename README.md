@@ -1,5 +1,5 @@
 # git-tutorial
 
-Fist time learning Git version control !!!
+First time learning Git version control !!!
 
 Hello from branch ^^
